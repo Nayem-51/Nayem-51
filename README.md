@@ -1,6 +1,7 @@
 # Hi there 👋, **Assalamu Alaiqum**
-My name is Nayem
+My name is Muhammad Milon
 #### I am a student and a noob problem solver 👨‍💻
+![I am a student and a noob problem solver 👨‍💻](https://avatars.githubusercontent.com/u/137856681?s=400&u=1f9c53eb8213217d7947061af94ecaf5d18e0c48&v=4)
 
 I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjalal University of Science and Technology, Sylhet.
 
@@ -26,12 +27,12 @@ I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjal
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nayem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nayem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadMilon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadMilon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nayem&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhammadMilon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
