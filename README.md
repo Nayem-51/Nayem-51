@@ -1,7 +1,7 @@
 # Hi there 👋, **Assalamu Alaiqum**
 My name is Nayem
 #### I am a student and a noob problem solver 👨‍💻
-![I am a student and a noob problem solver 👨‍💻]![WhatsApp Image 2023-11-29 at 16 42 56_60dfa0dc](https://github.com/Nayem-51/Nayem-51/assets/153702624/a5b592fa-43e2-4d34-9ddf-a81cfa50c923)
+![WhatsApp Image 2023-11-29 at 16 42 56_60dfa0dc](https://github.com/Nayem-51/Nayem-51/assets/153702624/a5b592fa-43e2-4d34-9ddf-a81cfa50c923)
 
 
 I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjalal University of Science and Technology, Sylhet.
