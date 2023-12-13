@@ -1,7 +1,6 @@
 # Hi there 👋, **Assalamu Alaiqum**
 My name is Nayem
 #### I am a student and problem solver 👨‍💻
-[WhatsApp Image 2023-11-29 at 16 42 56_60dfa0dc](https://github.com/Nayem-51/Nayem-51/assets/153702624/a5b592fa-43e2-4d34-9ddf-a81cfa50c923)
 
 
 I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjalal University of Science and Technology, Sylhet.
@@ -11,14 +10,6 @@ I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjal
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with ChatGPT and YouTube.
 - 📫 How to reach me: Via messenger 🤔 
-
-<h1 align="center">Hi 👋, I'm Nayem</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayem-51&label=Profile%20views&color=0e75b6&style=flat" alt="nayem-51" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayem-51" alt="nayem-51" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
