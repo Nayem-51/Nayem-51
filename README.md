@@ -1,7 +1,8 @@
 # Hi there 👋, **Assalamu Alaiqum**
 My name is Nayem
 #### I am a student and a noob problem solver 👨‍💻
-![I am a student and a noob problem solver 👨‍💻]https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/177913764_1154396511738522_5160142173103767693_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=be3454&_nc_ohc=iPBd6CwPBh4AX_-Rcsm&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCcCEt8VIYJGJ4sukDt9aNfWGbKFR7MmeTqZBeuGx-ffw&oe=65A0B5CF
+![I am a student and a noob problem solver 👨‍💻]![WhatsApp Image 2023-11-29 at 16 42 56_60dfa0dc](https://github.com/Nayem-51/Nayem-51/assets/153702624/a5b592fa-43e2-4d34-9ddf-a81cfa50c923)
+
 
 I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjalal University of Science and Technology, Sylhet.
 
