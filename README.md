@@ -11,11 +11,7 @@ I am currently pursuing BSc(Engr) in Computer Science and Engineering at Shahjal
 - 🤔 I’m looking for help with ChatGPT and YouTube.
 - 📫 How to reach me: Via messenger 🤔 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=https://www.facebook.com/md.nayemislam.9693001 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.nayemislam.9693001/" height="30" width="40" /></a>
-<a href=https://codeforces.com/profile/anyem target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/anyem" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
