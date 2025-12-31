@@ -12,8 +12,8 @@
 ## 📍 Location & Contact
 
 - 📍 **Sylhet, Bangladesh**
-- 📧 **Email:** nayemtalukdar.dev@gmail.com *(replace with your professional email)*
-- 📞 **Contact:** +880-XXXXXXXXXX *(optional / replace if allowed)*
+- 📧 **Email:** nayem20talukdar@gmail.com 
+- 📞 **Contact:** +8801903912471
 
 ---
 
@@ -72,23 +72,7 @@ I enjoy learning new technologies and building practical projects.
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayem-51&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayem-51&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-51&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 GitHub Badges
 
