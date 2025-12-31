@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/2q8wJcQ/github-banner.png" alt="GitHub Banner" />
+  <img src="https://drive.google.com/file/d/1sDP-qnefdP8Df2mZq8rJ1flm1kyCBd2A/view?usp=sharing" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, Assalamu Alaikum</h1>
