@@ -71,36 +71,10 @@ I enjoy **learning new technologies** and building **practical projects**.
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Nayem-51" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" />
-  </a>
-  <a href="https://www.facebook.com/md.nayemislam.9693001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/anyem" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Badges
-
-<p align="left">
-  <a href="https://archiveprogram.github.com/">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" />
-  </a>
-  <a href="https://docs.github.com/">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" />
-  </a>
-  <a href="https://stars.github.com/">
-    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" />
-  </a>
-</p>
-
+📊 My GitHub Stats
+<p align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=Nayem-51&show_icons=true&theme=dark&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=Nayem-51&show_icons=true&theme=default&count_private=true&include_all_commits=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api?username=Nayem-51&show_icons=true&theme=default&count_private=true&include_all_commits=true" alt="Nayem Talukdar GitHub Stats" /> </picture> </p> <p align="center"> <picture> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nayem-51&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Nayem-51&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nayem-51&theme=default" alt="Nayem Talukdar GitHub Streak" /> </picture> </p> <p align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-51&layout=compact&langs_count=8&theme=dark" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-51&layout=compact&langs_count=8&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-51&layout=compact&langs_count=8&theme=default" alt="Top Languages" /> </picture> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://github.com/Nayem-51" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.facebook.com/md.nayemislam.9693001" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://codeforces.com/profile/anyem" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/> </a> </p>
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
